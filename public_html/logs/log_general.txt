@@ -1,0 +1,441 @@
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- LOGIN -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- Redirecting to page requested either before logged-in OR the user's session was timed-out.
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- LOGIN -::- Redirecting to page requested either before logged-in OR the user's session was timed-out.
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- Redirecting to page requested either before logged-in OR the user's session was timed-out.
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+
+============
+
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:28:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:29:49 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:32:06 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:33:16 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:36:48 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>year => 2023<br />mfg => 1<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:37:25 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777777<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777777
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:47:09 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777777<br />vin => abc123<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777777
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:49:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777777<br />vin => abc123<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777777
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:50:14 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777777<br />vin => abc123<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777777
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 14:52:54 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777777<br />vin => abc123<br />year => 2023<br />mfg => 1<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />primary1 => 1<br />
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777777
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 16:35:13 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777778<br />vin => abc123<br />year => 2023<br />mfg => 1<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />primary1 => 1<br />
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777778
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 16:35:31 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777779<br />vin => abc123<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />primary2 => 1<br />
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777779
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 16:37:46 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777778<br />vin => abc123<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />primary1 => 1<br />
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777778
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 16:40:29 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777775<br />vin => abc123<br />year => 2023<br />mfg => 8<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />primary1 => 1<br />
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777775
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 8
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 16:40:37 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777770<br />vin => abc123<br />year => 2023<br />mfg => 1<br />model => Tundress<br />pkg => Ltd<br />cond => 3<br />miles => 900<br />price => 75000<br />sale_price => 73000<br />primary3 => 1<br />
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- stock: 777770
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- vin: abc123
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- year: 2023
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- mfg: 1
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- model: Tundress
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- pkg: Ltd
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- cond: 3
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- miles: 900
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- price: 75000
+2025-04-03 16:45:47 - user.id: 2 - Grant Summerlin -::- ADMIN -::- sale_price: 73000
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_id: 3
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- LOGIN -::- name: Luke Skytester
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- LOGIN -::- email: test@me.com
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_group: 1
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- LOGIN -::- logged_in: 1
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- ADMIN -::- Browser: Chrome
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- ADMIN -::- Operating System: Mac
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- avatar: jawa.png
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_id: 3
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- LOGIN -::- name: Luke Skytester
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- LOGIN -::- email: test@me.com
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- LOGIN -::- avatar: luke.png
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_group: 1
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- LOGIN -::- logged_in: 1
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- ADMIN -::- Browser: Chrome
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- ADMIN -::- Operating System: Mac
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- LOGIN -::- avatar: jawa.png
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_id: 3
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- LOGIN -::- name: Luke Skytester
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- LOGIN -::- email: test@me.com
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- LOGIN -::- avatar: luke.png
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_group: 1
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- LOGIN -::- logged_in: 1
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- ADMIN -::- Browser: Chrome
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- ADMIN -::- Version: 134.0.0.0
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- ADMIN -::- Operating System: Mac
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777787<br />vin => abc123<br />year => 2025<br />mfg => 1<br />model => Tundra<br />pkg => Limited<br />cond => 1<br />miles => 900<br />price => 59000<br />sale_price => 57000<br />primary1 => 1<br />
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- stock: 777787
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- vin: abc123
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- year: 2025
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- mfg: 1
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- model: Tundra
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- pkg: Limited
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- cond: 1
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- miles: 900
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- price: 59000
+2025-04-04 01:11:04 - user.id: 3 - Luke Skytester -::- ADMIN -::- sale_price: 57000
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777777<br />vin => abc123<br />year => 2023<br />mfg => 6<br />model => Suburban<br />pkg => 1LZ<br />cond => 1<br />miles => 900<br />price => 81745<br />sale_price => no value [rgs]<br />primary1 => 1<br />
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- stock: 777777
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- vin: abc123
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- year: 2023
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- mfg: 6
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- model: Suburban
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- pkg: 1LZ
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- cond: 1
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- miles: 900
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- price: 81745
+2025-04-04 01:13:40 - user.id: 3 - Luke Skytester -::- ADMIN -::- sale_price: 
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 777760<br />vin => abc123<br />year => 2024<br />mfg => 6<br />model => Silverado<br />pkg => EV<br />cond => 1<br />miles => 450<br />price => 75445.00<br />sale_price => no value [rgs]<br />primary1 => 1<br />
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- stock: 777760
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- vin: abc123
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- year: 2024
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- mfg: 6
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- model: Silverado
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- pkg: EV
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- cond: 1
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- miles: 450
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- price: 75445.00
+2025-04-04 01:15:30 - user.id: 3 - Luke Skytester -::- ADMIN -::- sale_price: 
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- the post: <h2>$_POST</h2>stock => 555777<br />vin => 123459879<br />year => 2025<br />mfg => 6<br />model => TrailBlazer<br />pkg => 1LT<br />cond => 1<br />miles => 456<br />price => 29365<br />sale_price => no value [rgs]<br />primary1 => 1<br />
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- stock: 555777
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- vin: 123459879
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- year: 2025
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- mfg: 6
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- model: TrailBlazer
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- pkg: 1LT
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- cond: 1
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- miles: 456
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- price: 29365
+2025-04-04 01:17:45 - user.id: 3 - Luke Skytester -::- ADMIN -::- sale_price: 
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_id: 3
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- LOGIN -::- name: Luke Skytester
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- LOGIN -::- email: test@me.com
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- LOGIN -::- avatar: luke.png
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- LOGIN -::- usr_group: 1
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- LOGIN -::- logged_in: 1
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- ADMIN -::- Browser: Chrome
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- ADMIN -::- Version: 134.0.0.0
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- ADMIN -::- Operating System: Mac
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- LOGIN -::- avatar: jawa.png
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_id: 2
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- LOGIN -::- name: Grant Summerlin
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- LOGIN -::- email: grant@7weight.com
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- LOGIN -::- avatar: jawa.png
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- LOGIN -::- usr_group: 1
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- LOGIN -::- logged_in: 1
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Browser: Chrome
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Version: 134.0.0.0
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- ADMIN -::- Operating System: Mac
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- ADMIN -::- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36

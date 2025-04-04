@@ -1,0 +1,314 @@
+img {
+	max-width: 100%;
+	height: auto;
+}
+.clear {
+	clear: both;
+}
+
+// PULLS & CALLOUTS ::::::::::::::::::::::::::::: 
+	.left {
+		float: left;
+		margin: .4rem .4rem .5rem 0;
+		padding: 0 2rem 1rem 0;
+	}
+	.right {
+		float: right;
+		margin: .4rem 0 .5rem .4rem;
+		padding: 0 0 1rem 2rem;
+	}
+	.callout_right {
+		float: right;
+		width: 45%;
+		font-size: 2.25rem;
+		line-height: 2.5rem;
+		padding: .25rem 0 1.5rem 1rem;
+	}
+	.callout_left {
+		float: left;
+		width: 45%;
+		font-size: 2.25rem;
+		line-height: 2.5rem;
+		padding: .25rem 1rem 1.5rem 0;
+	}
+	.center, 
+	.centered {
+		text-align: center;
+	}
+	.tar {
+		text-align: right;
+	}
+	.tal {
+		text-align: left;
+	}
+	.drone_float {
+		float: right;
+		margin: 0;
+		padding: 2vh 0 1vh 3vw;
+		width: 30%;
+		height: auto;
+		opacity: .6;
+	}
+	.float_circle {
+		//https://css-tricks.com/almanac/properties/s/shape-outside/
+		float: left;
+		shape-outside: circle(50%);
+		//shape-outside: polygon(0 0, 0 200px, 300px 600px);
+		//shape-outside: inset(top right bottom left border-radius); */
+		//shape-outside: inset(100px 100px 100px 100px 10px);
+		width: 50%;
+		height: fit-content;
+		padding: 1.5rem;
+	}
+
+	.headshot {
+		// font-size: $large;
+		flex-flow: $font-base;
+		text-transform: uppercase;
+		letter-spacing: 0.05rem;
+		font-weight: 500;
+		text-align: right;
+
+		border-right: 2px solid $text;
+		padding-right: 1rem;
+		margin-top: 1rem;
+		padding-top: 0;
+		line-height: 1;
+
+		span {
+			font-size: $ittybitty;
+			padding-top: .5rem;
+			line-height: 1.1;
+			display: block;
+			font-weight: 400;
+			color: $gray;
+		}
+	}
+
+// INLINE PHOTO :::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+.inline_photo {
+	margin: 3vh 0 4vh;
+
+    @media screen and (min-width: 360px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    }
+    @media screen and (min-width: 600px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    }
+    @media screen and (min-width: 1000px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    	margin: 3vh 0 6vh;
+    	width: 100%;
+    	height: auto;
+    }
+    @media screen and (min-width: 1400px){  //:::::::::::::::::    
+    }
+    @media screen and (min-width: 1900px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    }
+}
+
+	// RES ROWS :::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+		.right {		
+			&.sm_img {
+				width: 30%;
+			}
+		}
+		
+		@media (min-width: 375px) { // :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		}
+		@media (min-width: 700px) { // :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+			.right {		
+				&.md_img {
+					width: 30%;
+					// margin-left: 7rem;				
+				}
+				&.sm_img {
+					width: 30%;
+				}
+			}
+		}
+		@media (min-width: 1000px) { // :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+			.left {
+				float: left;
+				width: 33%;
+				margin: .4rem .4rem .5rem 0;
+				padding: 0 2rem 1rem 0;
+			}
+			.right {
+				float: right;
+				width: 33%;
+				margin: .4rem 0 .5rem .4rem;
+				padding: 0 0 1rem 2rem;
+		
+				&.lg_img {
+					width: 50%;
+					margin-left: 5rem;
+				}
+				&.md_img {
+					width: 33%;
+					margin-left: 5rem;				
+				}
+				&.sm_img {
+					width: 20%;				
+				}
+			}
+		}
+		@media (min-width: 1366px) { // :::::::::::::::::::::::::::::::::::::::::::::::::::::::    
+			.left {
+				width: 33%;
+				margin: .4rem .4rem .5rem 0;
+				padding: 0 2rem 1rem 0;
+			}
+			.right {
+				float: right;
+				width: 33%;
+				margin: .4rem 0 .5rem .4rem;
+				padding: 0 0 1rem 2rem;
+		
+				&.md_img {
+					width: 33%;
+					margin-left: 5rem;				
+				}
+				&.sm_img {
+					width: 20%;				
+				}
+			}
+		}
+		@media (min-width: 1900px) { // :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		}
+
+// JOOMLA READMORE ::::::::::::::::::::::::::::: 
+	.read_more::after {
+		content:'\25BA';
+		margin-left: .25rem;
+	}
+
+//:: Magnific popover  :::::::::::::::::::::::::::::
+	div[itemprop="articleBody"] img.mag_pop {
+		border: 6px solid #fff;
+		box-shadow: 2px 2px 2px #ccc;
+		height: auto;
+		width: 32%;
+	}
+
+// RESPONSIVE SPECIAL ELEMENTS ::::::::::::::::::::::::::::: 
+	.hp_vimeo{
+	}
+		// making vimeo responsive - https://www.ostraining.com/blog/coding/responsive-videos/ 
+		.video_responsive{
+			overflow: hidden;
+			padding-bottom: 56.25%;
+			position: relative;
+			height: 0; }
+		.video_responsive iframe{
+			left: 0;
+			top: 0;
+			height: 100%;
+			width: 100%;
+			position: absolute; }	
+	@media screen and (max-width: 600px){
+		.hp_vimeo{
+		}
+	}
+
+
+
+// List Items Flex :::::::::::::::::::::::::::::
+ul.li_flex {
+
+	li {}
+	
+	@media screen and (min-width: 360px) {
+		li {
+		}
+	}
+	@media screen and (min-width: 600px) {	
+		@include flexbox;
+		flex-wrap: wrap;
+
+		&:after {
+			content: "";
+			flex-basis: 47%;
+		}
+
+		li {
+			flex-basis: 47%;
+			list-style: none;
+			padding: .25rem 1rem .25rem 1.5rem;
+		}
+	}
+	@media screen and (min-width: 1000px) {
+		li {
+
+		}
+    }
+    @media screen and (min-width: 1200px) {
+		li {
+			flex-basis: 27%;
+			list-style: none;
+			padding: .25rem 1rem .25rem 1.5rem;
+		}
+		&:after {
+			content: "";
+			flex-basis: 27%;
+		}		
+    }
+    @media screen and (min-width: 1400px) {
+    	li {
+
+    	}
+    }
+    @media screen and (min-width: 1600px) {
+    	li {
+
+    	}
+    }
+    @media screen and (min-width: 1900px) {
+    	li {
+
+    	}
+    }
+    @media screen and (min-width: 2200px) {
+    	li {
+
+    	}
+    }
+}
+
+
+// TEMPLATE DETAILS  ::::::::::::::::::::::::::::: 
+
+.template_det_colors {
+	@include flexbox;
+	flex-wrap: wrap !important;
+
+	.template_det_color_block {
+		flex-basis: 30%;
+		padding: 2rem;
+		margin: 0 0 1rem;
+
+		.color_label {
+			
+			font-size: $larger;
+  color: white;
+  mix-blend-mode: difference;
+  
+
+		}
+
+	}
+}
+
+	// RES ROWS :::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+		@media screen and (min-width: 360px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		}
+		@media screen and (min-width: 600px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		}
+		@media screen and (min-width: 1000px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		}
+		@media screen and (min-width: 1400px){  //:::::::::::::::::    
+		}
+		@media screen and (min-width: 1900px){ //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		}
+
+
+
+
+

@@ -1,0 +1,978 @@
+
+// STRUCTURE  :::::::::::::::::::::::::::::
+	html {
+		/*
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		*/
+		background-color: $white;
+		// keeps the annoying horizontal scrolling left and right 
+		overflow-x: hidden; 
+		max-width: 100%;
+	}
+	*, *:before, *:after {
+		-webkit-box-sizing: inherit;
+		-moz-box-sizing: inherit;
+		box-sizing: inherit;
+	}
+	body {
+		background-color: $white;
+
+		// I removed the following, but it can be added by adding to each <body class="<?php echo $server_location;?>">
+		&.local_dev header,
+		&.local_dev header section.container .row {
+			background-color: $olive;
+		}
+	}
+
+	html, body {
+	  // overflow-x: hidden;
+	}
+	body {
+	  position: relative
+	}
+
+/* -----------------------------------------
+┏┓┳┳┏┳┓┏┳┓┏┓┳┓┏┓
+┃┓┃┃ ┃  ┃ ┣ ┣┫┗┓
+┗┛┗┛ ┻  ┻ ┗┛┛┗┗┛
+------------------------------------------ */
+
+
+
+// GLOBAL ELEMENTS STYLING  ::::::::::::::::::::::::::::::::
+
+
+
+// GO 2 TOP BUTTON  ::::::::::::::::::::::::::::::::
+	#back-to-top {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		display: none;
+		width: 50px;
+		height: 50px;
+		background: rgba(60,60,60,.65);
+		color: #fff;
+		text-align: center;
+		line-height: 50px;
+		border-radius: 50%;
+		z-index: 1000;
+		transition: opacity 0.3s ease-in-out;
+	}
+
+	#back-to-top:hover {
+		background-color: #555;
+	}
+
+	.go2top {
+		display: none;
+		position: fixed; 
+		bottom: -10%;
+		right: 1%;
+		-webkit-transform: translate(1%,1%);
+
+		background: rgba(60,60,60,.65);
+		border-radius: 100px;
+		padding: 0;
+
+		a {
+			color: $white;
+			display: block;
+			text-align: center;
+
+			position: absolute;
+			top: 50%;
+			left:50%;
+			-webkit-transform: translate(-50%,-50%);
+			//width: 100%;        
+		}
+		img {
+			display: none;
+		}
+	}
+
+	@media screen and (min-width: 600px){
+		.go2top {
+			display: none;
+			min-width: 2.5rem;
+			min-height: 2.5rem;
+			max-width: 2.5rem;
+			max-height: 2.5rem;
+			padding: 0;
+			display: block;
+			z-index: 10000;
+			//opacity: 0;
+			@include opacity(0.0,0);
+			text-align: center;
+			
+			-webkit-transition: all 0.5s ease-in-out;
+			-moz-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			transition: all 0.5s ease-in-out;
+
+			img {
+				width: 100%;
+				height: auto;
+				display: block;
+			
+			}
+			a {
+				text-align: center;
+				cursor: hand;
+				line-height: 1;
+				// padding: .3875rem .25rem;
+				margin: 0;
+
+				// position: relative;
+
+				span {
+					text-align: center;
+					position: absolute;
+					//opacity: 0;
+					@include opacity(.0,0);
+					top: 50%;
+					left:50%;
+					-webkit-transform: translate(-50%,-50%);
+					width: 100%;        
+				}
+			}
+
+
+			&.scrolled {
+				//opacity: 1;
+				@include opacity(1.0,100);
+				bottom: 1%;
+				right: 1%;
+				-webkit-transform: translate(1%,1%);
+
+				a {
+					i,
+					span {
+						-webkit-transition: all 0.5s ease-in-out;
+						-moz-transition: all 0.5s ease-in-out;
+						-o-transition: all 0.5s ease-in-out;
+						transition: all 0.5s ease-in-out;
+					}
+				}
+				a:hover i {
+					//opacity: 0;
+					@include opacity(0.0,0);
+				}
+				a:hover span {
+					//opacity: 1;
+					@include opacity(1.0,100);
+				}
+
+				img {
+
+					&:hover {
+						//opacity: 1;
+						@include opacity(1.0,100);
+					}
+				}
+			}
+		}
+	}
+	@media screen and (min-width: 1000px) {
+		.go2top {
+			//padding-top: 1rem;
+		}
+	}
+	@media screen and (min-width: 1200px) {
+		.go2top {
+			//display: none;
+		}
+	}
+
+// DEV DATA OVERLAYS  ::::::::::::::::::::::::::::::::
+
+	.testing_data {
+		display: block;
+		border: 1px solid black;
+		position: fixed;
+		z-index: 1000;
+		right: 0;
+		bottom: 1vh;
+		background-color: $off-white;
+
+		padding: 1rem;
+		max-width: 15vw;
+
+		font-size: .875rem;
+
+		opacity: .05;
+
+		&:hover {
+			opacity: 1;
+		}
+
+		h5 {
+			margin-top: 0;
+		}
+	}
+	.dev_nav {
+		display: block;
+		border: 1px solid black;
+		position: fixed;
+		left: 0;
+		bottom: 1vh;
+		z-index: 100000;
+		background-color: $gray;
+
+		padding: 1rem;
+
+		opacity: .1;
+
+		&:hover {
+			opacity: 1;
+		}
+
+		h5 {
+			margin-top: 0;
+		}
+
+		ul {
+			// @include flexbox;
+			padding: 0;
+			margin: 0;
+
+			li {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+
+				ul {
+					li {
+						padding-left: 1rem;
+					}
+				}
+			}
+		}
+	}
+
+
+// FRAME  ::::::::::::::::::::::::::::::::
+body {
+	// background: url('/images/bkgd/studio-background-grey-concrete-wall-texture-with-2023-11-27-04-50-57-utc.jpg');
+	// background-repeat: no-repeat;
+	// background-size: cover;
+	// background-position: bottom left;
+	// background-color: $blue_dark;
+	min-height: 100vh;
+	// background-color: #272F38;
+}
+header {
+	position: relative;
+	z-index: 10;
+	// background-color: $blue_dark;
+	padding-top: 2rem;
+
+	section {
+		&.container {
+			.row {
+				@include flexbox;
+				align-items: flex-end;
+				justify-content: space-between;
+				// background-color: $blue_dark;
+
+				.three.columns.logo {
+					align-self: flex-end;
+
+					img {
+						// width: 60%;
+						height: auto;
+						// margin: 0 0 1rem 5vw;
+					}
+				}
+				div.nine.columns.main_menu {
+					// padding-right: 5vw;
+					padding-top: 0;
+					padding-bottom: 0;
+
+					.menu_user {
+						width: 100%;
+						padding: 0 0 3rem 0;
+						text-align: right;
+						display: block;
+
+						ul {
+							padding: 0;
+							margin: 0;
+							@include flexbox;
+							justify-content: flex-end;
+
+							li {
+								list-style: none;
+								padding: 0 1rem;
+								margin: 0;
+
+
+								a {
+									color: $blue_gatis;
+									position: relative;
+									padding: .75rem 0;
+									text-decoration: none;
+
+									&::after {
+										content: '';
+										position: absolute;
+										left: 0;
+										bottom: 0;
+										height: 2px;
+										width: 100%;
+										background: currentColor;
+										transform: scaleX(0);
+										transform-origin: left;
+										transition: transform 0.3s ease;
+									}
+									&:hover {
+										color: $blue_light;
+										// border-bottom: 1px solid $blue_light;
+									
+
+										&::after {
+											transform: scaleX(1);
+										}
+									}
+								}
+							}
+						}
+					}
+
+					ul {
+						@include flexbox;
+						justify-content: flex-end;
+						width: 100%;
+						margin-bottom: 2vh;
+
+						li {
+							list-style: none;
+							padding: 0 1rem;
+
+							a {
+								color: $blue_gatis;
+								position: relative;
+								padding: .75rem 0rem;
+								text-decoration: none;
+
+								text-transform: uppercase;
+								color: $gray;
+								font-weight: 500;
+								font-size: $default;
+
+								&::after {
+									content: '';
+									position: absolute;
+									left: 0;
+									bottom: 0;
+									height: 2px;
+									width: 100%;
+									background: currentColor;
+									transform: scaleX(0);
+									transform-origin: left;
+									transition: transform 0.3s ease;
+								}
+								&:hover {
+									color: $blue_light;
+									// border-bottom: 1px solid $blue_light;
+
+
+									&::after {
+										transform: scaleX(1);
+									}
+								}
+							}
+
+							&:last-of-type {
+								padding-right: 0;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+main {
+	section {
+		&.container {
+			.row {
+				background-color: $white;
+				@include flexbox;
+
+				.three.columns:first-of-type {
+					// background-color: $blue_dark;
+
+				}
+				.nine.columns {
+					padding-top: 2rem;
+					padding-right: 2vw;
+					padding-bottom: 7rem;
+
+   
+					.exDrawer {
+						width: 100%;
+						margin: 0 0;
+					
+						.expandable {
+							overflow: hidden;
+							height: 0;
+							transition: height 0.5s ease;
+							background-color: $off-white;
+							border-bottom-left-radius: .25rem;
+							border-bottom-right-radius: .25rem;
+
+							border-right: 1px solid $tan;
+							border-left: 1px solid $tan;
+							border-bottom: 1px solid $tan;
+
+							p {
+								padding: 20px;
+							}
+						}
+						.drawerBtn {
+							@include trans;
+							width: fit-content;
+							padding: .875rem 1rem .5rem;
+							margin-top: -2px;
+							border-bottom-right-radius: .25rem;
+							border-bottom-left-radius: .25rem;
+							background-color: $off-white;
+							border-right: 1px solid $tan;
+							border-left: 1px solid $tan;
+							border-bottom: 1px solid $tan;
+							width: 190px;
+							margin-left: calc(90% - 190px);
+							/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f1f2f6+0,e0e5c9+100 */
+							background: linear-gradient(to bottom,  rgba(241,242,246,1) 0%,rgba(224,229,201,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+							font-size: $smaller;
+							text-transform: uppercase;
+							font-weight: 700;
+							text-align: center;
+							@include trans_slow;
+
+							&:first-letter {
+								// font-size: $xlarge;
+								// line-height: $small;
+								// vertical-align: sub;
+								color: $olive;
+								@include trans;
+							}
+
+							i {
+								font-family: $font-fa;
+								// display: block;
+								height: $default;
+								font-size: $default;
+								color: $olive;
+								@include trans_slow;
+								padding-right: .5rem;
+
+							}
+
+
+							&:hover {
+								cursor: pointer;
+								// padding: 1rem 1.5rem .6125rem;
+								// box-shadow: 0 4px 2px 2px rgba(0,0,0,.1);
+
+								i {
+									color: $lime;
+									text-shadow: 1px 1px 2px 2px rgba(0,0,0,0.3);
+								}
+							}
+						}
+					}
+
+				}
+			}
+		}
+	}
+}
+footer {
+	section {
+		&.container {
+			.row {
+				padding: 3rem 1.5rem 1.5rem;
+				font-style: italic;
+
+				p {
+					text-align: center;
+					color: $tan;
+					margin-bottom: 0;
+					padding-bottom: .25rem;
+
+					a {
+						color: $white;
+
+						&:hover {
+							color: $olive2;
+						}
+					}
+				}
+				.credits {
+					text-align: center;
+					
+					color: $blue3;
+
+					a {
+						color: $blue_light;
+						span {
+							// color: $blue_light;
+						}
+						&:hover {
+							color: $olive2;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+// MESSAGES STYLING  ::::::::::::::::::::::::::::::::
+	.message {
+		width: 100%;
+		display: block;
+		padding: 0 0 1rem;
+		color: $lime;
+		// color: $blue3;
+		font-weight: 600;
+		font-size: $small;
+
+		a {
+			text-decoration: underline;
+		}
+		div {
+			display: inline-block;
+		}
+		// div:before {
+		// 	display: inline-block;
+		// 	font-family: $font-fa;
+		// 	content: '\f06a';
+		// 	color: $lime;
+		// 	margin-right: .5rem;
+		// }
+	}
+
+
+// USERS & CLUBS  ::::::::::::::::::::::::::::::::
+	.club_list {
+		position: relative;
+	}
+
+	.au_user {
+	  z-index: 1;
+	  background-color: $white;
+	}
+
+
+
+// LEADERBOARD  ::::::::::::::::::::::::::::::::
+// HOMEPAGE - SEE _HP.SCSS  ::::::::::::::::::::::::::::::::::
+// PAGES: ABOUT -- SEE _pages_about.scss  ::::::::::::::::::::::::::::::::::
+// PAGES: SERVICES -- SEE _pages_services.scss  ::::::::::::::::::::::::::::::::
+// PAGES: BLOG / NEWS -- SEE _pages_blog.scss  :::::::::::::::::::::::::::::::::
+// PAGES: CONTACT -- SEE _pages_contact.scss  ::::::::::::::::::::::::::::::::::
+
+// LOGIN
+h4 {
+	margin-bottom: 2rem;
+}
+
+// MENU
+
+.menu_user {
+	.user_hello {
+		@include flexbox;
+		justify-content: flex-end;
+		align-items: center;
+
+		img.avatar {
+			height: 2.5rem;
+			width: auto;
+			margin-right: .75rem;
+			border-radius: 100px;
+			line-height: 2.5rem;
+		}
+		span.u_name {
+			display: inline-block;
+			margin-right: 1rem;
+			font-size: $smaller;
+			line-height: 2.5rem;
+		}
+		a {
+			padding-left: 1rem;
+			padding-right: 1rem;
+			// text-transform: uppercase;
+			font-size: $tiny;
+			color: $blue_gatis;
+			@include trans;
+			line-height: 2.5rem;
+
+			&:hover {
+				color: $olive;
+				font-weight: 700;
+			}
+		}
+	}
+	ul {
+		display: inline-block;
+
+		li {
+			a {
+			}
+		}
+	}
+}
+
+.row.car_heading {
+	margin: 3rem 0 1rem;
+
+	div {
+		@include flexbox;
+		// justify-content: flex-start;
+		align-items: center;
+
+		h3 {
+			font-size: $larger;
+			text-transform: uppercase;
+			display: inline-block;
+			width: auto;
+			padding-right: 4rem;
+			margin-top: .5rem;
+		}
+		#addNewCar {
+			display: inline-block;
+			font-size: $tiny;
+			font-weight: 700;
+			margin: 0;
+			height: 28px;
+		}
+	}
+}
+.row.inventory {
+	@include flexbox;
+	flex-wrap: wrap;
+
+	.v_card {
+		 // flex-basis: 25%;
+		 padding: .375rem;
+		 margin-bottom: 3rem;
+		 border: 1px solid $gray3;
+		 background-color: $gray_trans;
+
+		 &:nth-of-type(5n) {
+		 	margin-left: 0;
+		 }
+
+		.vc_img_container {
+			position: relative;
+
+			.vc_price {
+				position: absolute;
+				z-index: 100;
+				right: 0;
+				bottom: 0;
+				background-color: $blue_gatis;
+				color: $white;
+				font-weight: 700;
+				padding: .25rem 1rem .25rem 1.5rem;
+				font-size: $smaller;
+			}
+			.vc_img {
+				line-height: 0;
+				z-index: 10;
+
+				a {
+					img {
+						width: 100%;
+						height: auto;
+						@include trans;
+					}
+
+					&:hover {
+						img {
+							filter: saturate(50%) contrast(75%);
+						}
+					}
+				}
+			}
+		}
+		.vc_details {
+			padding: .5rem .25rem;
+			.vc_mfg {
+				.vc_data {
+					h6 {
+						font-size: $ittybitty;
+						padding: 0;
+						line-height: 1;
+						margin: 0;
+						font-weight: 300;
+					}
+				}
+			}
+			.vc_row {
+				@include flexbox;
+				font-size: $ittybitty;
+
+				&.vc_heading {
+					padding-bottom: .5rem;
+
+					.vc_data {
+						h3 {
+							font-size: $tweener;
+
+							a {
+								color: $text;
+								@include trans;
+
+								&:hover {
+									color: $blue_gatis;
+								}
+							}
+						}
+					}
+				}
+				&.vc_cond {
+					label {
+					}
+					.vc_data {
+					}
+				}
+				&.vc_stock {
+					label {
+					}
+					.vc_data {
+					}
+				}
+				&.vc_mileage {
+					label {
+					}
+					.vc_data {
+					}
+				}
+				&.vc_price {
+					padding-top: 1rem;
+
+					label {
+					}
+					.vc_data {
+					}
+				}
+				&.vc_savings {
+					label {
+					}
+					.vc_data {
+					}
+				}
+				&.vc_sale_price {
+					label {
+					}
+					.vc_data {
+					}
+				}
+			}
+		}
+		.vc_buttons {
+			margin-top: 1rem;
+
+			button {
+				&.trade_val.button.ghost,
+				&.cal_pmt.button.ghost,
+				&.test_drive.button.ghost {
+					font-size: $tiny;
+					margin: .375rem 0;
+					width: 100%;
+					padding: 0;
+				}
+			}
+			&.manage {
+				@include flexbox;
+
+				button {
+					&.v_edit,
+					&.v_archive,
+					&.v_delete {
+						flex-basis: auto;
+						width: auto !important;
+						font-size: $tiny;
+						margin: .375rem 0;
+						padding: .25rem .75rem;
+					}
+					&.v_edit {
+						background-color: $blue !important;
+					}
+					&.v_archive {
+						background-color: $gray !important;
+					}
+					&.v_delete {
+						background-color: $red !important;
+					}
+				}
+			}
+		}
+	}
+
+}
+
+
+table.c_table {
+	margin: 2rem 0 4rem;
+
+	caption {
+		font-family: "Titillium Web", sans-serif;
+		font-weight: 600;
+		letter-spacing: 0.025rem;
+		line-height: 1.4;
+		color: #000000;
+		margin: 1.5rem 0 0.5rem;		
+		font-size: 1.5rem;
+		text-transform: uppercase;
+		padding-right: 4rem;
+		margin-top: 0.5rem;		
+		text-align: left;
+	}
+	thead {
+		tr {
+			th {
+				width: fit-content;
+				font-size: $smaller;
+
+				&:nth-of-type(11),
+				&:nth-of-type(12),
+				&:nth-of-type(13) {
+					width: 4rem;
+					text-align: center;
+				}
+
+			}
+		}
+	}
+	tbody{
+		tr {
+			td {
+				vertical-align: middle;
+
+				img {
+					&:hover {
+						cursor: pointer;
+					}
+				}
+				a {
+					font-size: 1.5rem;
+					color: unset;
+				}
+				width: fit-content;
+
+				&:nth-of-type(11),
+				&:nth-of-type(12),
+				&:nth-of-type(13) {
+					width: 4rem;
+					text-align: center;
+
+					&:hover {
+						filter: hue-rotate(90deg);
+					}
+				}
+			}
+
+			&:hover {
+				td {
+					background-color: $off-white;
+				}
+			}
+		}
+	}
+}
+	// ---- MANAGE -----
+
+	.modal-overlay {
+	  display: none;
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  background-color: rgba(0,0,0,0.5);
+	  z-index: 999;
+
+	}
+
+	.modal-content {
+	  background-color: #fff;
+	  margin: 10% auto;
+	  padding: 20px 30px;
+	  border-radius: 8px;
+	  width: 66vw;
+	  position: relative;
+	  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+
+	  &.sm_pop {
+	  	width: 400px;
+	  	text-align: center;
+
+	  	span {
+	  		opacity: 25%;
+	  	}
+	  }
+	}
+
+	.close-button {
+	  position: absolute;
+	  top: 10px;
+	  right: 15px;
+	  font-size: 22px;
+	  cursor: pointer;
+	}
+
+#myModalTBD {
+
+}
+#newCarForm,
+#editForm {
+	@include flexbox;
+	flex-wrap: wrap;
+
+	.full_width {
+		flex-basis: 100%;
+		margin: 1rem 0;
+		font-weight: 700;
+		font-size: $large;
+	}
+	.new_col {
+		flex-basis: 47%;
+
+		label {
+			text-transform: uppercase;
+			font-size: $smaller;
+			color: $blue;
+		}
+		input {
+			text-align: left;
+		}
+
+		.chk_primary {
+			@include flexbox;
+			justify-content: flex-start;
+			font-size: $tiny;
+			margin-top: -1rem;
+
+			input {
+				margin-right: .75rem;
+			}
+		}
+	}
+	button.green {
+		background-color: $olive;
+		color: $white;
+	}
+}
+
+
+
+
+

@@ -1,0 +1,139 @@
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 11:51:55 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 11:53:29 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:01:01 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:02:31 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:05:48 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:10:18 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:10:27 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:11:22 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:13:52 - user.id: 2 - Grant Summerlin -::- No previously requested page made to redirect to. All good.
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:20:08 - user.id: 2 - Grant Summerlin -::- Redirecting to page requested either before logged-in OR the user's session was timed-out.
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:21:44 - user.id: 2 - Grant Summerlin -::- Redirecting to page requested either before logged-in OR the user's session was timed-out.
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:23:23 - user.id: 2 - Grant Summerlin -::- Redirecting to page requested either before logged-in OR the user's session was timed-out.
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:25:23 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:25:37 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 12:26:31 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- usr_id: 3
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- name: Luke Skytester
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- email: test@me.com
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- usr_group: 1
+2025-04-03 16:57:36 - user.id: 3 - Luke Skytester -::- logged_in: 1
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 17:08:10 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- avatar: jawa.png
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 17:11:08 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- usr_id: 3
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- name: Luke Skytester
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- email: test@me.com
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- avatar: luke.png
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- usr_group: 1
+2025-04-03 17:23:13 - user.id: 3 - Luke Skytester -::- logged_in: 1
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- avatar: jawa.png
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-03 17:25:15 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- usr_id: 3
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- name: Luke Skytester
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- email: test@me.com
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- avatar: luke.png
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- usr_group: 1
+2025-04-03 18:24:42 - user.id: 3 - Luke Skytester -::- logged_in: 1
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- usr_id: 3
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- name: Luke Skytester
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- email: test@me.com
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- avatar: luke.png
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- usr_group: 1
+2025-04-04 01:20:53 - user.id: 3 - Luke Skytester -::- logged_in: 1
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- avatar: jawa.png
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-04 01:33:17 - user.id: 2 - Grant Summerlin -::- logged_in: 1
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- usr_id: 2
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- name: Grant Summerlin
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- email: grant@7weight.com
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- avatar: jawa.png
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- usr_group: 1
+2025-04-04 01:48:40 - user.id: 2 - Grant Summerlin -::- logged_in: 1

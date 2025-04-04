@@ -1,0 +1,242 @@
+$path: "/templates/___template_name___/";
+$test:        '/images/promos/company/test.jpg'; // 
+$test2:            '/images/promos/company/test2.jpg'; // 
+
+
+
+// COLORS
+// $red:				#871d18;
+// $red:				#92140C;
+
+// $green:				#84C318;
+// $green:				#47682C;
+// $green:				#28502E;
+
+// $red:			rgb(119, 18, 19);
+// $tan:				#CCC7B9;
+// $gray:				#546A7B;
+// $gray:				#56666B;
+// $gray_lt:			#677078;
+// $blue:				#13293D;
+
+
+// $tan2:				#BEB7A4;
+// $blue2:				#416788;
+// $blue3:				#2350B5;
+// $gray2:				#313131;
+// $gray3:				#89949E;
+
+// $off_white:			#ecede9; // now it is the same as $white
+// 	// $off_white:		#F9F9F9; // original
+// 	.off_white {color: $off_white;}
+// $gray:			#a9a9a9;
+// 	.gray {color: $gray;}
+
+// $text:				#625B5B;
+// $nav:				#F4F5F8;
+// $nav:				#E7E8EB;
+
+$blue:   			#546a7a;
+	.blue { color: $blue;}
+$blue2:				#313b49;
+	.blue2 { color: $blue2;}
+$blue3:				#495A6B;
+	.blue3 { color: $blue3;}
+$blue_dark:			#272F38;
+	.blue_dark { color: $blue_dark;}
+$blue_dark2:		#2F3943;
+	.blue_dark2 { color: $blue_dark2;}
+$blue_light:		#72889F;
+	.blue_light { color: $blue_light;}
+$blue_light2:		rgba(114,136,159,.25);
+	// #72889f40
+	.blue_light2 { color: $blue_light2;}	
+$blue_light3:		rgba(162,191,224,1);
+	.blue_light3 { color: $blue_light3;}
+$blue_gatis: 	#004787;
+	.blue_gatis { color: $blue_gatis;}
+$tan:				#cbc7ba;
+	.tan { color: $tan;}
+$olive:				#a3b35b;
+	.olive { color: $olive;}
+	.green { color: $olive;}
+$olive_light:		rgba(163,179,91,0.325);
+	.olive { color: $olive_light;}	
+$olive2:			#B7AD64;
+	.olive2 { color: $olive2;}
+$lime:				#8cb247;
+	.lime { color: $lime;}
+$lime_trans:		rgba(140,178,71,.2);
+	.lime_trans { color: $lime_trans;}
+$off-white:			#f1f2f6;
+	.off-white { color: $off-white;}
+$red:				#791a17;
+	.red { color: $red;}
+$red2:				#991a17;
+	.red2 { color: $red2;};
+$red2_light:		rgba(153,26,23,.25);
+	.red2_light { color: $red2_light;}	
+$gray:				#707070;
+	.gray { color: $gray;}
+$gray2:	rgba(84,106,123, .38);
+	.gray2 { color: $gray2;}
+$gray3:	rgba(84,106,123, .175);
+	.gray3 { color: $gray3;}
+$gray4:	rgba(84,106,123, .5);
+	.gray4 { color: $gray3;}
+$gray_trans:	rgba(84,106,123, .05);
+	.gray_trans { color: $gray_trans;}
+$input_border: #D1D1D1;
+	.input_border {color: $input_border;}
+
+$white:				#FFFFFF;
+	.white {color: $white;}
+$text:				#333333;
+	.text {color: $text;}
+// $black:				#07020D;
+$black:				#000000;
+	.black {color: $black;}
+$nav:				#ecede9;
+	.nav {color: $nav;}
+$clear: 			rgba(0,0,0,0);
+$link: $olive;
+$gold:		#FFD700;
+
+
+// /* CSS HEX */
+// --charcoal: #313b4aff;
+// --falu-red: #791a15ff;
+// --apple-green: #8fb339ff;
+// --antiflash-white: #f1f2f6ff;
+// --olivine: #a5b452ff;
+
+// /* CSS HSL */
+// --charcoal: hsla(216, 20%, 24%, 1);
+// --falu-red: hsla(3, 70%, 28%, 1);
+// --apple-green: hsla(78, 52%, 46%, 1);
+// --antiflash-white: hsla(228, 22%, 95%, 1);
+// --olivine: hsla(69, 40%, 51%, 1);
+
+// /* SCSS HEX */
+// $charcoal: #313b4aff;
+// $falu-red: #791a15ff;
+// $apple-green: #8fb339ff;
+// $antiflash-white: #f1f2f6ff;
+// $olivine: #a5b452ff;
+
+// /* SCSS HSL */
+// $charcoal: hsla(216, 20%, 24%, 1);
+// $falu-red: hsla(3, 70%, 28%, 1);
+// $apple-green: hsla(78, 52%, 46%, 1);
+// $antiflash-white: hsla(228, 22%, 95%, 1);
+// $olivine: hsla(69, 40%, 51%, 1);
+
+// /* SCSS RGB */
+// $charcoal: rgba(49, 59, 74, 1);
+// $falu-red: rgba(121, 26, 21, 1);
+// $apple-green: rgba(143, 179, 57, 1);
+// $antiflash-white: rgba(241, 242, 246, 1);
+// $olivine: rgba(165, 180, 82, 1);
+
+
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-right: linear-gradient(90deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-bottom: linear-gradient(180deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-left: linear-gradient(270deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-top-right: linear-gradient(45deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-bottom-right: linear-gradient(135deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-top-left: linear-gradient(225deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-bottom-left: linear-gradient(315deg, #313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+$gradient-radial: radial-gradient(#313b4aff, #791a15ff, #8fb339ff, #f1f2f6ff, #a5b452ff);
+
+
+
+
+
+
+// FONT SIZES
+/*
+	$minute:		.75rem;		// 12px
+	$ittybitty:		.8125rem;	// 13px
+	$tiny:			875rem;		// 14px
+	$smaller:		.9375rem;	// 15px
+	$small:			1rem;		// 16px
+	$default:		1.125rem;	// 18px
+	$large:			1.5rem;		// 24px
+	$larger:		2rem;		// 32px
+	$xlarge:		2.5rem;		// 40px
+	$x2large:		3rem;		// 48px
+	$x3large:		3.5rem;		// 56px
+*/
+	$minute:		.625rem;	// 10px
+	$ittybitty:		.75rem;		// 12px
+	$tiny:			.8125rem;	// 13px
+	$smaller:		.875rem;	// 14px
+	$small:			.9375rem;	// 15px
+	$default:		1rem;		// 16px
+	$tweener:		1.125rem;	// 18px
+	$large:			1.25rem;	// 18px
+	$larger:		1.5rem;		// 24px
+	$xlarge:		2rem;		// 32px
+	$x2large:		2.5rem;		// 40px
+	$x3large:		3rem;		// 48px
+
+.question {
+	color: #3F7188;
+	color: $red;
+	font-weight: 700;
+}
+.question2 {
+	// color: #B23115;
+	font-weight: 700;
+	font-size: 1.25rem;
+	background-color: rgba(200,25,25,1);
+	padding: 2.25vh 4rem 2vh 7rem;
+	color: $white;
+	position: relative;
+	border-radius: 5px;
+
+	&:before {
+		content: "?";
+		font-size: 2rem;
+		position: absolute;
+		left: 1vw;
+		padding: 0 .5rem;
+		margin: 0 .5rem;
+		border: 2px solid $white;
+	}
+}		
+
+/*
+.trans {
+	// parallax shrink and sticky header on scroll
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+}
+.trans_slow {
+	// parallax shrink and sticky header on scroll
+	-webkit-transition: all .75s ease-in-out;
+	-moz-transition: all .75s ease-in-out;
+	-o-transition: all .75s ease-in-out;
+	transition: all .75s ease-in-out;
+}
+.trans_medium {
+	// parallax shrink and sticky header on scroll
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.trans_fast {
+	// parallax shrink and sticky header on scroll
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+}
+
+*/
